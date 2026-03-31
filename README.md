@@ -43,12 +43,6 @@ This project demonstrates basic web design concepts like layout, navigation, and
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here after uploading your project)
-
----
-
 ## ⚠️ Notes
 
 * This project is created for **learning purposes**
@@ -70,7 +64,7 @@ This project demonstrates basic web design concepts like layout, navigation, and
 ## 👨‍💻 Author
 
 **Manoj A**
-B.Tech CSE Studen
+B.Tech CSE Student
 
 ---
 
